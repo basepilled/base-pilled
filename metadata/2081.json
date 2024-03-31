@@ -1,0 +1,12 @@
+{
+    "name": "Base Pilled #2081",
+    "description": "Break free, embrce da pilled life!",
+    "external_url": "https://www.basepilled.com",
+    "image": "https://github.com/basepilled/base-pilled/blob/main/assets/bluepill.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        }
+    ]
+}
